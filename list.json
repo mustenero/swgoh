@@ -1,4 +1,12 @@
 [
+ {
+    "name": "Арбалет",
+    "allyCode": "148255758",
+    "comment": "",
+    "userIcon": "<:enemy:745386769255497780>",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
   {
     "name": "Rambus",
     "allyCode": "918317732",
